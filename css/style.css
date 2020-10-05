@@ -9,7 +9,7 @@ header{
     overflow: hidden;
     width: 90%;
     margin: auto;
-    margin-top: 55px;
+    margin-top: 50px;
 }
 .logo{
     width: 20%;
@@ -165,20 +165,19 @@ nav ul li{
 
 /* load more button start here */
 
-.loadmore-button{
-    width: 80%;
-    height: 200px;
-    background-color: #ffffff;
-    margin: auto;
-    padding-top: 50px;
-}
 .button{
-    width: 8.4%;
+    width: 10%;
     margin: auto;
+    text-align: center;
+    border: 1px solid rgb(71, 69, 69);
+    margin-bottom: 100px;
 }
-h3{
-    font-size: 25px;
+.button h6{
+    color: #626262;
+    font-size: 20px;
     font-family: 'Playfair Display', serif;
+    padding: 15px;
+    font-weight: lighter;
 }
 
 /* load more button end here */
